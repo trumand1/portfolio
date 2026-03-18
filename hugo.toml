@@ -1,0 +1,9 @@
+baseURL = "https://trumandangerfield.com"
+languageCode = "en-us"
+title = "Truman Dangerfield"
+theme = "paper"
+
+[params]
+  color = 'linen'
+  linkedin = 'trumandangerfield'
+  github = 'trumand1'
