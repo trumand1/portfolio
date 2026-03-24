@@ -3,7 +3,26 @@ languageCode = "en-us"
 title = "Truman Dangerfield"
 theme = "paper"
 
+[taxonomies]
+  tag = "tags"
+  form = "forms"
+
 [params]
   color = 'linen'
   linkedin = 'trumandangerfield'
   github = 'trumand1'
+  mainSections = ['posts']
+  enableForms = false
+
+[menu]
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "writing"
+    name = "Writing"
+    url = "/posts/"
+    weight = 20

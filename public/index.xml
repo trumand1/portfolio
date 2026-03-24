@@ -6,8 +6,15 @@
     <description>Recent content on Truman Dangerfield</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 22:30:17 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 00:00:00 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0600</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;Projects section coming soon.&lt;/p&gt;&#xA;&lt;p&gt;This is placeholder copy for now. You can replace this with project summaries, links, screenshots, or case studies when you&amp;rsquo;re ready.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome</title>
       <link>http://localhost:1313/posts/first-post/</link>
