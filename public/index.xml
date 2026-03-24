@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Truman Dangerfield</title>
-    <link>http://localhost:1313/</link>
+    <link>https://trumandangerfield.com/</link>
     <description>Recent content on Truman Dangerfield</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Mar 2026 00:00:00 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trumandangerfield.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://trumandangerfield.com/projects/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 -0600</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://trumandangerfield.com/projects/</guid>
       <description>&lt;p&gt;Projects section coming soon.&lt;/p&gt;&#xA;&lt;p&gt;This is placeholder copy for now. You can replace this with project summaries, links, screenshots, or case studies when you&amp;rsquo;re ready.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://trumandangerfield.com/posts/first-post/</link>
       <pubDate>Tue, 17 Mar 2026 22:30:17 -0600</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://trumandangerfield.com/posts/first-post/</guid>
       <description>&lt;p&gt;Welcome to my portfolio! I&amp;rsquo;m just getting started, but I hope you enjoy what I&amp;rsquo;ve built so far. Find me on LinkedIn in the top right.&lt;/p&gt;</description>
     </item>
   </channel>
